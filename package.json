@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch cityList.json --port 3005"
+    "start": "node server.js"
   },
   "author": "Gabriel Garcia",
   "license": "ISC",
